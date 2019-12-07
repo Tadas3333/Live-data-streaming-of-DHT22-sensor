@@ -1,7 +1,7 @@
 # Live data streaming of DHT22 sensor
 HTTP server and AJAX web page for live data streaming of DHT22 tempreture and humidity sensor with Raspberry Pi or Beaglebone Black.
 
-![alt text](http://i.imgur.com/05kU6JX.jpg)
+![alt text](https://raw.githubusercontent.com/beijind/Live-data-streaming-of-DHT22-sensor/master/demo-image.jpg)
 
 # How to use it
 - Make sure you have both Python and [Adafruit_DHT](https://github.com/adafruit/Adafruit_Python_DHT) installed in your system.
