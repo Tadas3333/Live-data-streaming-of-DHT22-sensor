@@ -8,7 +8,7 @@ page_html = """
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Sensor/title>
+		<title>Sensor</title>
 		<style>
 			#loader {
 				margin-left: 10px;
